@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{CD9613A6-5FAC-4E08-AD67-A973FDB61BB1}|DS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CD9613A6-5FAC-4E08-AD67-A973FDB61BB1}|DS.csproj|c:\\users\\alfas\\onedrive\\desktop\\desktop assistant\\ds\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CD9613A6-5FAC-4E08-AD67-A973FDB61BB1}|DS.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfas\\OneDrive\\Desktop\\Desktop Assistant\\DS\\obj\\Debug\\net8.0\\DS.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\DS.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\alfas\\OneDrive\\Desktop\\Desktop Assistant\\DS\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\alfas\\OneDrive\\Desktop\\Desktop Assistant\\DS\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T16:14:12.241Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +44,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\alfas\\OneDrive\\Desktop\\Desktop Assistant\\DS\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAMwDgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T15:20:54.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DS.GlobalUsings.g.cs",
               "DocumentMoniker": "C:\\Users\\alfas\\OneDrive\\Desktop\\Desktop Assistant\\DS\\obj\\Debug\\net8.0\\DS.GlobalUsings.g.cs",
               "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\DS.GlobalUsings.g.cs",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "obj\\Debug\\net8.0\\DS.GlobalUsings.g.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T15:32:57.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T15:32:57.064Z"
             }
           ]
         }
