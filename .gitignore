@@ -1,0 +1,19 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# .NET
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]eploy/
